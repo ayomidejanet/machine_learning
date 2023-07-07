@@ -1,4 +1,4 @@
-# machine_learning
+
 
 ### TASKS
 - Download the water.csv. It is a file consisting 1001 snapshots of 250 water molecules. i.e. each line has coordinates of 750 atoms( making total 2250 columns) and 2251st column is called a flag which is not relevant in the begining.
